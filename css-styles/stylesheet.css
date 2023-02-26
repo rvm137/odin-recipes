@@ -1,0 +1,17 @@
+
+body {
+  background-color:blanchedalmond;
+  text-align: center;
+
+}
+header {
+  text-align: center;
+  background-color: wheat;
+  font-size: 35px;
+}
+div {
+  padding-bottom: 60px;
+}
+.recipe-class {
+  display: inline-block;
+}
